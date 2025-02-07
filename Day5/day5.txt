@@ -1,0 +1,147 @@
+Furniture Site Testing Documentation
+Presentation
+This record gives an itemized record of the testing performed on the commercial center application to confirm its center functionalities, including dealing with edge cases. All experiments were completely executed, and the outcomes are recorded for reference.
+
+Test Targets
+The testing targets were as per the following:
+
+Guarantee the usefulness and exactness of the item posting page.
+Evaluate Programming interface mistake taking care of instruments with attempt and catch blocks.
+Check the expansion and evacuation of things in the truck.
+Affirm that the application is responsive on cell phones.
+Approve the pursuit usefulness by classifications and with invalid classifications.
+Test the showcase and usefulness of static pages, including Home, Reach Us, and About Us.
+Definite Experiment Results
+Experiment TC001: Approve Item Posting Page
+Objective: Check that the furniture segment shows exact item subtleties.
+
+Test Steps:
+
+Open any classification page.
+Check that all items show on the page.
+Anticipated Outcome: All items ought to be shown with exact subtleties.
+
+Genuine Outcome: Items showed true to form.
+
+Status: Passed
+
+Seriousness: Low
+
+Test Steps:
+
+Recreate a Programming interface separation.
+Invigorate the page.
+Confirm whether a blunder message is shown.
+Anticipated Outcome: A backup UI with the message "Unfit to stack items" ought to show up.
+
+Genuine Outcome: Backup UI showed accurately.
+
+Status: Passed
+
+Seriousness: Medium
+
+Experiment TC003: Really look at Truck Usefulness
+Objective: Affirm the capacity to add and eliminate things from the truck.
+
+Test Steps:
+
+Add a thing to the truck.
+View the truck.
+Eliminate the thing from the truck.
+Confirm truck refreshes.
+Anticipated Outcome: The truck ought to refresh with the additional or eliminated items.
+
+Genuine Outcome: Truck usefulness filled in true to form.
+
+Status: Passed
+
+Seriousness: High
+Experiment TC004: Portable Responsiveness Approval
+Objective: Guarantee the application adjusts accurately to cell phones.
+
+Test Steps:
+
+Resize the program window to recreate a versatile view.2. Test the design on versatile view.
+Confirm that the design changes properly.
+Anticipated Outcome: The format ought to adjust flawlessly to more modest screens.
+
+Genuine Outcome: Responsive format proceeded as planned.
+
+Status: Passed
+
+Seriousness: Medium
+Experiment TC005: Class Search Usefulness Approval
+Objective: Confirm that items are sifted accurately by classification through the hunt bar.
+
+Test Steps:
+
+Enter a classification name in the pursuit bar.
+Press Enter to apply the channel.
+Make sure that the items are separated by the predetermined classification.
+Anticipated Outcome: Items ought to be sifted in light of the entered class.
+
+Genuine Outcome: Search channel applied accurately.
+
+Status: Passed
+
+Seriousness: High
+Experiment TC006: Invalid Class Search Taking care of
+Objective: Test the application's reaction to non-existent classes in the pursuit bar.
+
+Test Steps:
+
+Enter a non-existent class name in the pursuit bar.
+Press Enter.
+Confirm the presentation of a proper backup message.
+Anticipated Outcome: A message expressing "No items found" ought to show up.
+
+Genuine Outcome: Backup UI showed accurately with the message "No items found."
+
+Status: Passed
+
+Seriousness: Low
+Experiment TC007: Approve Landing page Show
+Objective: Guarantee that the landing page shows accurately.
+
+Test Steps:
+
+Open the landing page.
+Confirm the format and content.
+Anticipated Outcome: The landing page ought to show as planned.
+
+Genuine Outcome: Landing page showed accurately.
+
+Status: Passed
+
+Seriousness: Low
+Experiment TC008: Approve Reach Us Page Show
+Objective: Guarantee that the Reach Us page shows accurately.
+
+Test Steps:
+
+Open the Get in touch with Us page.
+Confirm the format and content.
+Anticipated Outcome: The Get in touch with Us page ought to show as planned.
+
+Genuine Outcome: Reach Us page showed accurately.
+
+Status: Passed
+
+Seriousness: Low
+
+Experiment TC009: Approve About Us Page Show
+Objective: Guarantee that the About Us page shows accurately.
+
+Test Steps:
+
+Open the About Us page.
+Check the design and content.
+Anticipated Outcome: The About Us page ought to show as planned.
+
+Genuine Outcome: About Us page showed accurately.
+
+Status: Passed
+
+Seriousness: Low
+End
+The commercial center application has gone through broad testing, covering basic functionalities, for example, item posting, truck usefulness, Programming interface blunder taking care of, portable responsiveness, and static pages. The application is vigorous, easy to understand, and prepared for sending.
